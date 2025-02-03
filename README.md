@@ -1,2 +1,2 @@
 # Sales_Forecasting
-Using basic python code ,an eda analysis has been done for the following data that is presented.
+This project analyzes historical gold price trends from January 1950 to July 2020 using monthly data. By performing exploratory data analysis (EDA), we visualize price fluctuations over time. The dataset is processed by converting the date column into a datetime index for better time series analysis. Various statistical and machine learning models, such as Exponential Smoothing and Linear Regression, can be applied to identify patterns and make future predictions.
